@@ -1,0 +1,24 @@
+{
+    "current_round": 8,
+    "winners": {
+        "5763888639": "\u20b910"
+    },
+    "used_vouchers": {
+        "5763888639": "TEST10A"
+    },
+    "vouchers": {
+        "\u20b910": [
+            "TEST10B"
+        ],
+        "\u20b915": [
+            "TEST15A",
+            "TEST15B"
+        ],
+        "\u20b920": [
+            "TEST20A"
+        ],
+        "\u20b950": [
+            "TEST50A"
+        ]
+    }
+}
